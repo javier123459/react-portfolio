@@ -1,38 +1,41 @@
-const logotext = "JOHN";
+const logotext = "XAVIER";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "javier chajon",
+    description: "yo soy  javier chajon _  desarrollador,actualmente trabajo  en  guatemala",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "HOLA! SOY javier chajon",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "me gusta AUTOMATIZAR  PROCESOS",
+        second: "SOMOS OBRA DEL ESPIRITU SANTO",
+        third: "Codifico sitios web geniales",
+        four: "SERVIDOR DE JESUS",
+        five: "implemento infraestructura IT",
+        six: "DIOS EXISTE",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Conocimientosn en desarrollo web, performance digital y social media. Administración de IT, Internet of Things. Networking Cisco CCNA,   sistemas operativos, plataformas de Windows,  Unix telecomunicaciones, administracion de proyectos y estrategia de ventasbases de datos infraestructura orientada a seguridad básicos.ctv, alarmas,  controles de acceso, etc. ventas",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "CONOCIMIENTOS",
+    aboutme: "desarrollo web,performance digital y social media. Administración de IT, Internet of Things.Networking (Cisco CCNA,).sistemas operativos, plataformas de Windows,  Unix. telecomunicaciones, administracion de proyectos y estrategia de ventas. infraestructura orientada a seguridad básicos ctv, alarmas,  controles de acceso,ingeniero pre- venta ",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "Desarrollador web",
+        where: "",
         date: "2020",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
+        jobtitle: "ingeniero pre-venta",
+        where: "",
         date: "2019",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "telecomunicaciones",
+        where: "",
+        date: "2014",
     },
 ];
 
@@ -59,16 +62,16 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "INFRAESTRUCTURA IT",
+        description: "instalacion de  proyectos ,cadenas de tiendas, franquicias, soporte,  operación y  gestión de de los sistemas y servicios tecnológicos dentro de una organización.  tanto hardware como software, redes, almacenamiento y seguridad. ",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "INGENIERO COMERCIAL",
+        description: "ingeniero pre- venta, b2b y b2c, ingeniero comercial software y hardware, ecosistema digital, agente marketing, distribuidor ecommerce componentes de tecnologia alrededor del pais (Guatemala) 50  marcas, comercializando servicios del sector eléctrico y energía renovable, Conocimientos básicos en automatización o digitalización industrial.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "WORDPRESS DEVELOPER",
+        description: "creación, personalización y mantenimiento de sitios web utilizando el sistema de gestión de contenidos (CMS) WordPress. habilidades técnicas de desarrollo web con un enfoque en diseño, rendimiento y funcionalidad..",
     },
 ];
 
@@ -136,9 +139,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "info@productosyserviciosgt.com",
+    YOUR_FONE: "(505)5008-8659",
+    description: "sera un gusto atenderle",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",

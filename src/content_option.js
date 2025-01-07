@@ -78,7 +78,7 @@ const services = [{
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://productosyserviciosgt.com/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
